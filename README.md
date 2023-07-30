@@ -1,5 +1,8 @@
 # Not that study Materials
 
+It includes all required material to study and understand react.js ( based in its latest version).
+Along with branches added to it which holds important ptojects .
+
 
 **Important:** You always download the **entire branch content!**
 
